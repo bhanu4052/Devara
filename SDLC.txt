@@ -1,3 +1,8 @@
+ bhanu
+Test
+=======
+pradeep yadava
+main
 Requirement Analysis --> BA need to create BDD(Business Development Design) doc based on client requirements which contains Budget analysis, requirment specifications, Time analysis, techinal analysis
 
 Design --> SRS(System requirement Specifications) Module Development
@@ -18,7 +23,7 @@ Testing​
 Deployment​
 Maintenance​
 
-Using Git changing file content
+
 
 
 
