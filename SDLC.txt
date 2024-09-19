@@ -1,0 +1,26 @@
+Requirement Analysis --> BA need to create BDD(Business Development Design) doc based on client requirements which contains Budget analysis, requirment specifications, Time analysis, techinal analysis
+
+Design --> SRS(System requirement Specifications) Module Development
+
+Development---> Developers need to develop based on the SRS and need to perform Unit testing(White box testing)
+
+Testing --> (STLC)Test Case Preparation, RTM tables
+UAT, Alpha & Beta testing
+
+Maintaince and Delivery
+
+
+
+Requirement Analysis​
+Design​
+Coding Or Development​
+Testing​
+Deployment​
+Maintenance​
+
+
+
+
+
+
+ 
